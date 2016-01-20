@@ -1,0 +1,1500 @@
+baitu-102.245:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 23:05:00.609000
+    Duration: 16.0 ms
+     Changes:   
+              ----------
+              pid:
+                  18812
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute09.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:41:06.689489
+    Duration: 2.256 ms
+     Changes:   
+              ----------
+              pid:
+                  24549
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute02-zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:34.196201
+    Duration: 2.936 ms
+     Changes:   
+              ----------
+              pid:
+                  31690
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.102.11:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:37.809062
+    Duration: 3.295 ms
+     Changes:   
+              ----------
+              pid:
+                  1296
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer5-10-10-112-5.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:29.531661
+    Duration: 3.94 ms
+     Changes:   
+              ----------
+              pid:
+                  21790
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute01.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:40.059032
+    Duration: 2.61 ms
+     Changes:   
+              ----------
+              pid:
+                  23343
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+w-10.10.102.174:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:19.047000
+    Duration: 47.0 ms
+     Changes:   
+              ----------
+              pid:
+                  2440
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.102.202:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:37:46.121000
+    Duration: 16.0 ms
+     Changes:   
+              ----------
+              pid:
+                  7696
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+w-10.10.102.201:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:37:46.065000
+    Duration: 31.0 ms
+     Changes:   
+              ----------
+              pid:
+                  4784
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+callcenter130:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:32.247000
+    Duration: 32.0 ms
+     Changes:   
+              ----------
+              pid:
+                  1532
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+w-10.10.102.132:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:30.597000
+    Duration: 24.0 ms
+     Changes:   
+              ----------
+              pid:
+                  4644
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+w-10.10.110.240:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:39.146000
+    Duration: 63.0 ms
+     Changes:   
+              ----------
+              pid:
+                  8888
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.100.2:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:29.853941
+    Duration: 5.592 ms
+     Changes:   
+              ----------
+              pid:
+                  18846
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+baitu-102.242:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:34.799000
+    Duration: 65.0 ms
+     Changes:   
+              ----------
+              pid:
+                  76348
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+dns2-10-10-112-9.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:40:27.656417
+    Duration: 3.101 ms
+     Changes:   
+              ----------
+              pid:
+                  9075
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+dns1-10-10-112-8.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:40:16.683841
+    Duration: 3.366 ms
+     Changes:   
+              ----------
+              pid:
+                  21572
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer1-10-10-112-1.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:30.164010
+    Duration: 5.51 ms
+     Changes:   
+              ----------
+              pid:
+                  16402
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+blue027.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:30.160116
+    Duration: 9.194 ms
+     Changes:   
+              ----------
+              pid:
+                  12438
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+network.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:30.473282
+    Duration: 2.689 ms
+     Changes:   
+              ----------
+              pid:
+                  13889
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+callcenter128:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:42.801000
+    Duration: 30.0 ms
+     Changes:   
+              ----------
+              pid:
+                  3496
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer2-10-10-112-2.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:31.199796
+    Duration: 5.091 ms
+     Changes:   
+              ----------
+              pid:
+                  7130
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer3-10-10-112-3.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:31.196175
+    Duration: 5.654 ms
+     Changes:   
+              ----------
+              pid:
+                  19253
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+callcenter127:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:45.392000
+    Duration: 29.0 ms
+     Changes:   
+              ----------
+              pid:
+                  5340
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer6-10-10-112-6.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:31.428135
+    Duration: 3.76 ms
+     Changes:   
+              ----------
+              pid:
+                  7101
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+callcenter125:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:34.580000
+    Duration: 44.0 ms
+     Changes:   
+              ----------
+              pid:
+                  6052
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+w-10.10.111.251:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo shutdown -s -t 0
+      Result: True
+     Comment: Command "echo shutdown -s -t 0" run
+     Started: 15:38:31.233000
+    Duration: 91.0 ms
+     Changes:   
+              ----------
+              pid:
+                  2460
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  shutdown -s -t 0
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+ceph01-10-10-111-1.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:35.152938
+    Duration: 4.19 ms
+     Changes:   
+              ----------
+              pid:
+                  13030
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+blue026.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:35.502460
+    Duration: 5.876 ms
+     Changes:   
+              ----------
+              pid:
+                  26305
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer7-10-10-112-7.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:40:24.295554
+    Duration: 2.93 ms
+     Changes:   
+              ----------
+              pid:
+                  18700
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+mail.gbicom.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.353241
+    Duration: 5.817 ms
+     Changes:   
+              ----------
+              pid:
+                  10930
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+ceph03-10-10-111-3.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:37.927157
+    Duration: 3.966 ms
+     Changes:   
+              ----------
+              pid:
+                  14131
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.4:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:38.493491
+    Duration: 3.352 ms
+     Changes:   
+              ----------
+              pid:
+                  15953
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.1:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:38.501347
+    Duration: 3.259 ms
+     Changes:   
+              ----------
+              pid:
+                  10520
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+ceph04-10-10-111-4.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:38.536281
+    Duration: 4.17 ms
+     Changes:   
+              ----------
+              pid:
+                  2433
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.8:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.502637
+    Duration: 3.515 ms
+     Changes:   
+              ----------
+              pid:
+                  1016
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.2:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.508601
+    Duration: 3.916 ms
+     Changes:   
+              ----------
+              pid:
+                  13552
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.10:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.509869
+    Duration: 3.497 ms
+     Changes:   
+              ----------
+              pid:
+                  5992
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.6:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.513001
+    Duration: 4.707 ms
+     Changes:   
+              ----------
+              pid:
+                  9074
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.9:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.517824
+    Duration: 4.031 ms
+     Changes:   
+              ----------
+              pid:
+                  29120
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.5:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.520600
+    Duration: 3.891 ms
+     Changes:   
+              ----------
+              pid:
+                  24662
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.113.7:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.525493
+    Duration: 3.856 ms
+     Changes:   
+              ----------
+              pid:
+                  17502
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+ceph02-10-10-111-2.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:39.588832
+    Duration: 4.236 ms
+     Changes:   
+              ----------
+              pid:
+                  28181
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer11-10-10-112-11.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 23:39:36.626504
+    Duration: 3.161 ms
+     Changes:   
+              ----------
+              pid:
+                  23681
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer4-10-10-112-4.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:41.021523
+    Duration: 5.236 ms
+     Changes:   
+              ----------
+              pid:
+                  898
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute04.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:51.522064
+    Duration: 2.024 ms
+     Changes:   
+              ----------
+              pid:
+                  9445
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute03.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:37.378757
+    Duration: 2.643 ms
+     Changes:   
+              ----------
+              pid:
+                  10502
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute06.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:55.805087
+    Duration: 2.601 ms
+     Changes:   
+              ----------
+              pid:
+                  5491
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.101.21:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:38:54.723370
+    Duration: 4.259 ms
+     Changes:   
+              ----------
+              pid:
+                  24907
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute08.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:42:17.223352
+    Duration: 3.175 ms
+     Changes:   
+              ----------
+              pid:
+                  30224
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute07.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:42:21.594285
+    Duration: 3.538 ms
+     Changes:   
+              ----------
+              pid:
+                  2083
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+compute05.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:39:01.550380
+    Duration: 3.3 ms
+     Changes:   
+              ----------
+              pid:
+                  6719
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+ceph01:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:43:56.103886
+    Duration: 4.042 ms
+     Changes:   
+              ----------
+              pid:
+                  4038
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+rabbitmq-server-inner01:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:36:38.814947
+    Duration: 3.722 ms
+     Changes:   
+              ----------
+              pid:
+                  3534
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+computer11-10-10-102-10.iprun.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:39:09.991011
+    Duration: 5.442 ms
+     Changes:   
+              ----------
+              pid:
+                  1777
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.100.6:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:41:20.753666
+    Duration: 2.382 ms
+     Changes:   
+              ----------
+              pid:
+                  9573
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+blue003.zCloud:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 05:09:33.089106
+    Duration: 3.215 ms
+     Changes:   
+              ----------
+              pid:
+                  17405
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+10.10.102.169:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:39:50.468761
+    Duration: 6.209 ms
+     Changes:   
+              ----------
+              pid:
+                  18164
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+zxr.cobbler.com:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:40:46.660968
+    Duration: 3.024 ms
+     Changes:   
+              ----------
+              pid:
+                  9919
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+ceph02:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:42:00.751234
+    Duration: 3.959 ms
+     Changes:   
+              ----------
+              pid:
+                  9065
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1
+ceph03:
+----------
+          ID: salt-minion-shutdown
+    Function: cmd.run
+        Name: echo poweroff
+      Result: True
+     Comment: Command "echo poweroff" run
+     Started: 15:43:21.829264
+    Duration: 4.292 ms
+     Changes:   
+              ----------
+              pid:
+                  4154
+              retcode:
+                  0
+              stderr:
+              stdout:
+                  poweroff
+
+Summary
+------------
+Succeeded: 1 (changed=1)
+Failed:    0
+------------
+Total states run:     1

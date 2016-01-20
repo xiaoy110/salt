@@ -1,0 +1,7 @@
+[alocal]
+baseurl=http://mirrors.iprun.com/centos/7.1/
+gpgcheck=0
+[epel]
+baseurl=http://mirrors.iprun.com/centos/epel/7/
+gpgcheck=0
+
