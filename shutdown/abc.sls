@@ -1,7 +1,7 @@
 salt-minion-shutdown:
   cmd.run:
 {% if grains['os'] == 'Windows' %}
-    - name: echo shutdown -s -t 0
+    - name: shutdown -s -t 300
 {% else %}
-    - name: echo poweroff
+    - name: shutdown -h +5 &
 {% endif %}
