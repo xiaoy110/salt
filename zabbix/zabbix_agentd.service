@@ -1,0 +1,13 @@
+[Unit]
+Description=zabbix_agentd
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=/etc/init.d/zabbix_agentd start
+ExecReload=/etc/init.d/zabbix_agentd restart
+ExecStop=/etc/init.d/zabbix_agentd  stop
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
